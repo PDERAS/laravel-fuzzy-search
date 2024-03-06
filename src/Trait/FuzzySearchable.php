@@ -1,6 +1,6 @@
 <?php
 
-namespace Soliyer\LaravelFuzzySearch\Traits;
+namespace Pderas\LaravelFuzzySearch\Traits;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Facades\DB;

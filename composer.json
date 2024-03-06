@@ -1,11 +1,11 @@
 {
-    "name": "soliyer/laravel-fuzzy-search",
+    "name": "Pderas/laravel-fuzzy-search",
     "description": "A Laravel package providing a fuzzy search trait for Eloquent models to easily implement search functionality with support for concatenated attributes.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Soliyer\\LaravelFuzzySearch\\": "src/"
+            "Pderas\\LaravelFuzzySearch\\": "src/"
         }
     },
     "authors": [

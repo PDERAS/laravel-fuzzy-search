@@ -5,9 +5,9 @@ This Laravel package provides a `FuzzySearchable` trait for Eloquent models, ena
 ## Installation
 
 To install the package via Composer, run the following command:
-
+### (command -> for personal use only)
 ```bash
-composer require soliyer/laravel-fuzzy-search
+composer require Soliyer/laravel-fuzzy-search
 ```
 Make sure your Laravel version is compatible with this package by checking the Laravel version requirements in the composer.json.
 
@@ -21,7 +21,7 @@ To add fuzzy search capabilities to your Eloquent models, simply use the `FuzzyS
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Soliyer\LaravelFuzzySearch\Traits\FuzzySearchable;
+use Pderas\LaravelFuzzySearch\Traits\FuzzySearchable;
 
 class Post extends Model
 {
